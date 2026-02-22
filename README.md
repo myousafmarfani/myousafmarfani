@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 I'm currently working on<br>A full-stack todo web application using spec-driven development with Next.js, FastAPI, and Supabase Postgres (from my recent Hackathon Phase II project).<br>🤝 I'm looking to collaborate on<br>Open-source AI agent projects, multi-agent systems for real-world applications like emergency response, or full-stack web apps integrating ML models.<br>🛠 I'm looking for help with<br>Optimizing advanced agentic AI workflows, implementing guardrails in OpenAI Agents SDK, or scaling FastAPI backends for production.<br>🌱 I'm currently learning<br>Machine Learning, Deep Learning, and Agentic AI as part of my GIAIC coursework, with hands-on practice in Pydantic, FastAPI, and AI toolkits.<br>💬 Ask me about<br>Next.js development, API integrations, building stateful AI chatbots in Python, or web scraping tools like LinkedIn extractors and Twitter scrapers.<br>⚡ Fun fact<br>I once built a secure data encryption system in Python that turns confidential info into unbreakable code—perfect for hiding my coffee recipes!
 
 
