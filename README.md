@@ -10,7 +10,7 @@ Currently learning Machine Learning, Deep Learning, and Agentic AI with hands-on
 - **Phase I (Completed):** Python console app with in-memory task management using Claude Code
 - **Phase II (Completed):** Full-stack web app with Next.js, FastAPI, SQLModel, and Neon PostgreSQL
 - **Phase III (Completed):** AI-powered chatbot using OpenAI Agents SDK and MCP server architecture
-- **Phase IV (In Progress):** Local Kubernetes deployment with Docker, Minikube, and Helm charts
+- **Phase IV (Completed):** Local Kubernetes deployment with Docker, Minikube, and Helm charts
 - **Phase V (In Progress):** Cloud deployment on DigitalOcean with Kafka, Dapr, and event-driven architecture
 
 All phases built using spec-driven development with documented specifications, plans, and tasks before implementation.
@@ -26,31 +26,16 @@ All phases built using spec-driven development with documented specifications, p
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, TypeScript
-
 **Frontend:** Next.js, React, TailwindCSS
-
-**Backend:** FastAPI, Node.js, Express, Django
-
+**Backend:** FastAPI, Node.js, Django
 **Databases:** PostgreSQL, MongoDB, Supabase, Redis
-
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy
-
+**AI/ML:** OpenAI Agents SDK, n8n, scikit-learn, Pandas, NumPy
 **Tools:** Docker, Git, Postman, Playwright, Cypress
 
 **Development Workflow:** Speckit, Claude Code, Specification-Driven Development
 
-## 💡 My Development Philosophy
 
-I believe in **Spec-Driven Development** over vibe coding. Every project starts with comprehensive specifications, detailed planning, and documented prompts. Using tools like **Speckit** and **Claude Code**, I build web applications and AI systems with:
-
-- 📋 **Clear Specifications** - Every feature documented before implementation
-- 📐 **Structured Planning** - Tasks broken down into actionable steps
-- 📝 **Prompt Documentation** - All AI interactions and decisions tracked
-- ⚙️ **Rule-Based Implementation** - Code follows defined standards and patterns
-
-This approach ensures maintainability, scalability, and clear communication across all projects.
-
-## 🎯 Development Approach
+## 💡 Development Approach
 
 My workflow follows a systematic, specification-first methodology:
 
@@ -76,12 +61,6 @@ I'm interested in collaborating on:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/myousaf_codes)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@myousafmarfani)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousufhere.dev@gmail.com)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=myousafmarfani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=myousafmarfani&theme=dark&hide_border=false)
 
 ---
 
