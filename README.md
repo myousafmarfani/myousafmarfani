@@ -1,6 +1,6 @@
 # Hi, I'm M. Yousuf 👋
 
-Full-Stack Developer | AI & ML Enthusiast | Spec-Driven Development Advocate
+Full-Stack Developer | AI & ML Enthusiast | Spec-Driven Development
 
 Currently learning Machine Learning, Deep Learning, and Agentic AI with hands-on experience in building full-stack applications and AI-powered systems using specification-driven methodologies.
 
