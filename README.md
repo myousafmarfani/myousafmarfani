@@ -1,35 +1,18 @@
-# Hi, I'm M. Yousuf 👋
+# Hi, I'm Muhammad Yousaf 👋
 
-Full-Stack Developer | AI & ML Enthusiast | Spec-Driven Development
+Full-Stack Developer | Mastering AI/ML | Spec-Driven Development
 
-Currently learning Machine Learning, Deep Learning, and Agentic AI with hands-on experience in building full-stack applications and AI-powered systems using specification-driven methodologies.
+Currently learning Agentic AI with hands-on experience in building full-stack applications and AI-powered systems using specification-driven methodologies.
 
-## 🚀 What I'm Working On
-
-**Evolution of Todo - GIAIC Hackathon II:**
-- **Phase I (Completed):** Python console app with in-memory task management using Claude Code
-- **Phase II (Completed):** Full-stack web app with Next.js, FastAPI, SQLModel, and Neon PostgreSQL
-- **Phase III (Completed):** AI-powered chatbot using OpenAI Agents SDK and MCP server architecture
-- **Phase IV (Completed):** Local Kubernetes deployment with Docker, Minikube, and Helm charts
-- **Phase V (In Progress):** Cloud deployment on DigitalOcean with Kafka, Dapr, and event-driven architecture
-
-All phases built using spec-driven development with documented specifications, plans, and tasks before implementation.
-
-
-## 💼 Featured Projects
-
-- **[Frontline Worker AI](https://github.com/myousafmarfani/frontline-worker-ai)** - Multi-Agent System for Emergency Response
-- **[Stateful Chatbot](https://github.com/myousafmarfani/stateful_chatbot_authentication_memory)** - AI chatbot with authentication and session memory
-- **[LinkedIn URL Extractor](https://github.com/myousafmarfani/linkedin-url-extractor)** - Data scraping tool for LinkedIn profiles
-- **[Secure Data Encryption](https://github.com/myousafmarfani/secure-data-encryption-decryption)** - Python-based encryption/decryption system
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript
+**Languages:** Python, TypeScript
 **Frontend:** Next.js, React, TailwindCSS
-**Backend:** FastAPI, Node.js, Django
-**Databases:** PostgreSQL, MongoDB, Supabase, Redis
+**Backend:** FastAPI, Node.js, Django, Flask
+**Databases:** PostgreSQL, MongoDB, Supabase, Neon, VectorDB, Redis
 **AI/ML:** OpenAI Agents SDK, n8n, scikit-learn, Pandas, NumPy
+**CLIs as Coding Agents:** Claude Code, and OpenCode
 **Tools:** Docker, Git, Postman, Playwright, Cypress
 
 **Development Workflow:** Speckit, Claude Code, Specification-Driven Development
@@ -47,6 +30,7 @@ My workflow follows a systematic, specification-first methodology:
 
 Every line of code has a purpose, every feature has a plan, and every decision is documented.
 
+
 ## 🤝 Open to Collaborate
 
 I'm interested in collaborating on:
@@ -63,5 +47,3 @@ I'm interested in collaborating on:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousufhere.dev@gmail.com)
 
 ---
-
-💡 *Ask me about spec-driven development, Next.js, API integrations, or building AI systems with clear specifications!*
